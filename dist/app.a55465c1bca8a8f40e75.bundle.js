@@ -1,0 +1,1 @@
+(()=>{"use strict";[1,2,3,4,6].forEach((function(o){console.log(o)}))})();
